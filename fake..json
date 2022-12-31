@@ -1,0 +1,62 @@
+[
+    {
+        "timeSlot": "09:00 - 09:25",
+        "meridiem": "AM"
+    },
+    {
+        "timeSlot": "09:30 - 09:55",
+        "meridiem": "AM"
+    },
+    {
+        "timeSlot": "10:00 - 10:25",
+        "meridiem": "AM"
+    },
+    {
+        "timeSlot": "10:30 - 10:55",
+        "meridiem": "AM"
+    },
+    {
+        "timeSlot": "11:00 - 11:25",
+        "meridiem": "AM"
+    },
+    {
+        "timeSlot": "11:30 - 11:55",
+        "meridiem": "AM"
+    },
+    {
+        "timeSlot": "12:00 - 12:25",
+        "meridiem": "PM"
+    },
+    {
+        "timeSlot": "12:30 - 12:55",
+        "meridiem": "PM"
+    },
+    {
+        "timeSlot": "01:30 - 01:55",
+        "meridiem": "PM"
+    },
+    {
+        "timeSlot": "02:00 - 02:25",
+        "meridiem": "PM"
+    },
+    {
+        "timeSlot": "02:30 - 02:55",
+        "meridiem": "PM"
+    },
+    {
+        "timeSlot": "03:00 - 03:25",
+        "meridiem": "PM"
+    },
+    {
+        "timeSlot": "03:30 - 03:55",
+        "meridiem": "PM"
+    },
+    {
+        "timeSlot": "04:00 - 04:25",
+        "meridiem": "PM"
+    },
+    {
+        "timeSlot": "04:30 - 04:55",
+        "meridiem": "PM"
+    }
+]
